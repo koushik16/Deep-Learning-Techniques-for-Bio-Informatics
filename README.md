@@ -15,6 +15,8 @@ Here's what you'll find in this repo:
 2. **Deep Learning for Bioinformatics**: Worked on applying deep learning approaches to some challenging biological datasets, exploring their strengths in modeling complex relationships.
 
 3. **Probabilistic Models for Biological Sequences**: Implemented Markov Models, Hidden Markov Models (HMMs), and Bayesian Networks for analyzing biological sequences. These models are great for dealing with sequential data and understanding relationships in systems biology.
+   
+4. For Data, refer to the links in respective folders.
 
 ## Objectives
 
